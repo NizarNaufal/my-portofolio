@@ -31,7 +31,7 @@ const INFO = {
 			title: "OSA - On Shelf Availability",
 			description:
 				"OSA is a AI Application for Detection and Recognition Product",
-			logo: "/ic_osa.xml",
+			logo: "/ic_osa.png",
 			linkText: "Internal Apps",
 			link: "",
 		},
