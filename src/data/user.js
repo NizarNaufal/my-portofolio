@@ -1,5 +1,5 @@
-import osaLogo from "./ic_osa.xml"
-import legerLogo from "./legerlaundry.jpg"
+import osaLogo from "./public/ic_osa.xml"
+import legerLogo from "./public/legerlaundry.jpg"
 
 const INFO = {
 	main: {
