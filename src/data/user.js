@@ -31,7 +31,7 @@ const INFO = {
 			title: "OSA - On Shelf Availability",
 			description:
 				"OSA is a AI Application for Detection and Recognition Product",
-			logo: "./public/ic_osa.xml",
+			logo: "/ic_osa.xml",
 			linkText: "Internal Apps",
 			link: "",
 		},
@@ -48,7 +48,7 @@ const INFO = {
 			title: "Leger Laundry",
 			description:
 				"Leger Laundry is an application for scanning tags on clothes, towels, and other items to track laundry counts and manage their return to hotels.",
-			logo: "./public/legerlaundry.jpg",
+			logo: "/legerlaundry.jpg",
 			linkText: "Internal Apps",
 			link: "",
 		},
