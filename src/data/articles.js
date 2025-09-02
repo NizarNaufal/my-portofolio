@@ -203,6 +203,6 @@ function article_7() {
 	};
 }
 
-const myArticles = [article_1, article_2,article_3];
+const myArticles = [article_1, article_2,article_3, article_4, article_5, article_6, article_7];
 
 export default myArticles;
