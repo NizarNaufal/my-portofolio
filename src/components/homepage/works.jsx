@@ -15,6 +15,42 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./logo_dpv.png"
+								alt="kb"
+								className="work-image"
+							/>
+							<div className="work-title">Digital Place Vision - Part Of Alfamart Group</div>
+							<div className="work-subtitle">
+								Software Engineer - Android (3 Month)
+							</div>
+							<div className="work-duration">2025 - 2025</div>
+						</div>
+						<div className="work">
+							<img
+								src="./logo_kp.png"
+								alt="kb"
+								className="work-image"
+							/>
+							<div className="work-title">PT KB Finansia Multifinance</div>
+							<div className="work-subtitle">
+								Software Engineer - Android Team Lead
+							</div>
+							<div className="work-duration">2024 - Present</div>
+						</div>
+						<div className="work">
+							<img
+								src="./legerlaundry.jpg"
+								alt="leger"
+								className="work-image"
+							/>
+							<div className="work-title">Leger Laundry</div>
+							<div className="work-subtitle">
+								Software Engineer - Android (1 Month)
+							</div>
+							<div className="work-duration">2024 - 2024</div>
+						</div>
+						<div className="work">
+							<img
 								src="./telkom.jpeg"
 								alt="telkom"
 								className="work-image"
@@ -23,7 +59,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Mid Software Engineer - Android
 							</div>
-							<div className="work-duration">2021 - Present</div>
+							<div className="work-duration">2021 - 2024</div>
 						</div>
 
 						<div className="work">
