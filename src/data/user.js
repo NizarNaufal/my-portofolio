@@ -1,3 +1,6 @@
+import osaLogo from "./ic_osa.xml"
+import legerLogo from "./legerlaundry.jpg"
+
 const INFO = {
 	main: {
 		title: "Portofolio by Nizar Naufal",
@@ -28,6 +31,41 @@ const INFO = {
 
 	projects: [
 		{
+			title: "OSA - On Shelf Availability",
+			description:
+				"OSA is a AI Application for Detection and Recognition Product",
+			logo: osaLogo,
+			linkText: "Internal Apps",
+			link: "",
+		},
+		{
+			title: "Kreditplus Mobile",
+			description:
+				"Kreditplus Mobile is a credit service application for Limit Applications, Cash Loans Collateralized by BPKB Motorcycles/Cars, Purchasing Used Cars, Factoring, etc.",
+			logo: "https://play-lh.googleusercontent.com/QYHbACbuzLjLTX7ORkWDnSuHNqi32yfdjB8-oIJyBKsh2nqgisl2B6mdf9NnZdTqXQ=w480-h960-rw",
+			linkText: "Google Play Store",
+			link: "https://play.google.com/store/apps/details?id=com.kreditplus.kpm.android",
+		},
+
+		{
+			title: "Leger Laundry",
+			description:
+				"Leger Laundry is an application for scanning tags on clothes, towels, and other items to track laundry counts and manage their return to hotels.",
+			logo: legerLogo,
+			linkText: "Internal Apps",
+			link: "",
+		},
+
+		{
+			title: "Logee Services",
+			description:
+				"LOGEE service, presenting the latest and most comprehensive solutions for your logistics needs. From fulfillment services to sales and order processing, we simplify your logistics supply chain, boost sales, and streamline order management for efficiency, growth, and security. We assist in optimizing every facet of your logistics operations.",
+			logo: "https://play-lh.googleusercontent.com/Un6G_T1yyXQl2h4_VFCJs82krtdx8eSNpGbenq7YXrnpSgoh-O2kC0jV35esvI6YtwMv=w480-h960-rw",
+			linkText: "Google Play Store",
+			link: "https://play.google.com/store/apps/details?id=id.logee.operation&hl=en_US",
+		},
+
+		{
 			title: "Logee Transportation - Truck Apps",
 			description:
 				"Logee Truck is an application that facilitates Trucker partners to get benefits from getting orders easily, managing orders, and guaranteeing faster payments.",
@@ -52,14 +90,6 @@ const INFO = {
 			logo: "https://play-lh.googleusercontent.com/gl30L4DU8ORn9wnwJjXWFLQJZq0oHervvU130c-yNgNvSGiwC_EA2BKEt3_fmcn5PaI=s96-rw",
 			linkText: "Google Play Store",
 			link: "https://play.google.com/store/apps/details?id=com.telkom.logeetransdriver",
-		},
-		{
-			title: "Logee Services",
-			description:
-				"LOGEE service, presenting the latest and most comprehensive solutions for your logistics needs. From fulfillment services to sales and order processing, we simplify your logistics supply chain, boost sales, and streamline order management for efficiency, growth, and security. We assist in optimizing every facet of your logistics operations.",
-			logo: "https://play-lh.googleusercontent.com/Un6G_T1yyXQl2h4_VFCJs82krtdx8eSNpGbenq7YXrnpSgoh-O2kC0jV35esvI6YtwMv=w480-h960-rw",
-			linkText: "Google Play Store",
-			link: "https://play.google.com/store/apps/details?id=id.logee.operation&hl=en_US",
 		},
 		{
 			title: "Enesmart Apps",
