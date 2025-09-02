@@ -1,6 +1,3 @@
-import osaLogo from "./public/ic_osa.xml"
-import legerLogo from "./public/legerlaundry.jpg"
-
 const INFO = {
 	main: {
 		title: "Portofolio by Nizar Naufal",
@@ -34,7 +31,7 @@ const INFO = {
 			title: "OSA - On Shelf Availability",
 			description:
 				"OSA is a AI Application for Detection and Recognition Product",
-			logo: osaLogo,
+			logo: "./public/ic_osa.xml",
 			linkText: "Internal Apps",
 			link: "",
 		},
@@ -51,7 +48,7 @@ const INFO = {
 			title: "Leger Laundry",
 			description:
 				"Leger Laundry is an application for scanning tags on clothes, towels, and other items to track laundry counts and manage their return to hotels.",
-			logo: legerLogo,
+			logo: "./public/legerlaundry.jpg",
 			linkText: "Internal Apps",
 			link: "",
 		},
